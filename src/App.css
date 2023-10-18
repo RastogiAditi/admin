@@ -258,7 +258,7 @@ flex-direction: column;
   margin-left: 200px;
   flex-wrap: wrap;
    margin-top: 175px;
-   width: auto;
+   /* width: auto; */
    border: 2px solid whitesmoke;
  
 }
@@ -266,8 +266,8 @@ flex-direction: column;
 .graph-container .bar-graph{
   margin-top: 100px;
   justify-content: center;
-  margin-left: -600px;
   margin-right: 130px;
+  position: fixed;
 }  
 
 
