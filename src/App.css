@@ -125,6 +125,7 @@ flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  position: fixed;
 }
 
 .card {
@@ -138,6 +139,7 @@ flex-direction: column;
   box-sizing: content-box;
   border-radius: 28px;
   padding: 20px;
+  
 }
 
 .card i {
